@@ -5,5 +5,7 @@
 }
 .end{
 	@extend %message;
-	background-color: orange;
+	background-color: black;
+	border: none;
+	padding: 15px
 }
