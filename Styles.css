@@ -60,3 +60,16 @@ table{
 img{
 	margin-left: 20%
 }
+.end {
+  font-family: sans-serif;
+  font-size: 18px;
+  font-weight: bold;
+}
+
+.end {
+  background-color: black;
+  border: none;
+  padding: 15px
+}
+
+/*# sourceMappingURL=Styles.css.map */
