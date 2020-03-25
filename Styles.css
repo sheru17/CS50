@@ -48,17 +48,21 @@ a:hover{
 	}
 
 }
+#dlol{
+	margin-left: 10%;
+}
 #dcs{
 	margin-left: 30%
 }
-#dlol{
-	margin-left: 10%
+@media only screen and (min-width: 701px){
+	img, table{
+		margin-left: 35%
+	}
 }
-table{
-	margin-left: 35%
-}
-img{
-	margin-left: 20%
+@media only screen and (max-width: 700px){
+	img, table{
+		margin-left: 0%;
+	}
 }
 .end {
   font-family: sans-serif;
@@ -69,7 +73,6 @@ img{
 .end {
   background-color: black;
   border: none;
-  padding: 15px
+  padding: 10px
 }
-
 /*# sourceMappingURL=Styles.css.map */
